@@ -1,0 +1,9 @@
+# ignoriere vsc maven setup Dateien
+.settings/
+.classpath
+.project
+pom.xml
+.vscode/
+
+# ignoriere Class-Datei-Ordner
+target/
